@@ -1,2 +1,2 @@
-# js-practice-hitesh
-code repo for js by hitesh chaudhary
+# js-practice
+code repo for js practice
